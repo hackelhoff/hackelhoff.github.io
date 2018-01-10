@@ -1949,13 +1949,15 @@
 
 		.image.left {
 			float: left;
-			margin: 0 2em 2em 0;
+			/*margin: 0 2em 2em 0;*/
+			margin: 0px;
 			top: 0.25em;
 		}
 
 		.image.right {
 			float: right;
-			margin: 0 0 2em 2em;
+			/*margin: 0 0 2em 2em;*/
+			margin: 0px;
 			top: 0.25em;
 		}
 
